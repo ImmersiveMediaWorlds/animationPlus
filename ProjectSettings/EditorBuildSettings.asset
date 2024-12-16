@@ -5,18 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-  - enabled: 1
-    path: Assets/MasterFolder/MasterScene/MasterScene.unity
-    guid: b3299643bdf12914ebc8f849338e9ff3
-=======
->>>>>>> Stashed changes
   - enabled: 0
     path: Assets/Quintus Assets/Scenes/test VR scene.unity
     guid: 99c9720ab356a0642a771bea13969a05
->>>>>>> 410a75d10af4923291580baa95d57edb8ea44584
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 5d6b30675734c2342b80a58b844c32ce, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
