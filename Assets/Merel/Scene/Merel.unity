@@ -385,6 +385,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4654855742079475140, guid: d45e838ddc1c2d145a51f854fd0beddc, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 1666878db52175e4bbbfa5fb58be10bf, type: 2}
     - target: {fileID: 5134942704552514315, guid: d45e838ddc1c2d145a51f854fd0beddc, type: 3}
       propertyPath: m_Name
       value: FattyCat
