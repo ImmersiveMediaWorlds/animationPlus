@@ -12,10 +12,12 @@ public class PickupItem : MonoBehaviour
         Debug.Log("PrintEvent called at " + Time.time + " with a value of " + s);
         if(s == pickup_Item_string)
         {
+            Debug.Log("gelukt");
             objectToParent.transform.SetParent(parentBone.transform);
         }
         else if(s == letgo_Item_string)
         {
+            Debug.Log("laat los");
             objectToParent.transform.parent = null;
         }
         else
