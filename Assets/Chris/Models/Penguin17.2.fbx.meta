@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 96853f0ea8ed2544797bd0ef27f98a4f
+guid: f3cdad1af030f2044be25c02448f93fe
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -121,8 +121,8 @@ ModelImporter:
       name: root root|P_Achter Springen
       takeName: root root|P_Achter Springen
       internalID: -7080217996496400502
-      firstFrame: 153
-      lastFrame: 368
+      firstFrame: 134
+      lastFrame: 352
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -209,7 +209,7 @@ ModelImporter:
       takeName: root root|P_Slaan
       internalID: -3742591450940699339
       firstFrame: 0
-      lastFrame: 40
+      lastFrame: 98
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
