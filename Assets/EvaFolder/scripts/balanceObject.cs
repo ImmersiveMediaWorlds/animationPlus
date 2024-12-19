@@ -12,6 +12,6 @@ public class balanceObject : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.eulerAngles = currentrotation;
+        transform.eulerAngles = new Vector3(currentrotation.x, transform.eulerAngles.y, currentrotation.z);
     }
 }
