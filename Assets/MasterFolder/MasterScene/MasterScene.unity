@@ -600,8 +600,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pickup_Item_string: p
   letgo_Item_string: l
-  parentBone: {fileID: 634150868}
+  parentBone: {fileID: 522006814}
   objectToParent: {fileID: 2139534029}
+--- !u!1 &522006814 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7537368116783619184, guid: 0aa56509b99ff43ab944a1b257870a7b, type: 3}
+  m_PrefabInstance: {fileID: 1519694114}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &527346956
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -671,11 +676,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4d50b19852a25aa49962e387ff88cd45, type: 3}
---- !u!1 &634150868 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2579227726740906639, guid: 0aa56509b99ff43ab944a1b257870a7b, type: 3}
-  m_PrefabInstance: {fileID: 1519694114}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &655799714
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1897,6 +1897,18 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 2966879255983354151, guid: 27a3e5721f790524ea900d2aedce0045, type: 3}
   m_PrefabInstance: {fileID: 8479202482781337205}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1812218870
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1812218868}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0efe5394d02911f4bb06b010166ee11f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1823569981
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2674,7 +2686,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 2966879255983354151, guid: 27a3e5721f790524ea900d2aedce0045, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1812218870}
   m_SourcePrefab: {fileID: 100100000, guid: 27a3e5721f790524ea900d2aedce0045, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
