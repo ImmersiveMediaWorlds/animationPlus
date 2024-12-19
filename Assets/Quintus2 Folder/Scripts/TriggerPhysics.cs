@@ -10,7 +10,7 @@ public class TriggerPhysics : MonoBehaviour
 
     private void Start()
     {
-        rb = GetComponent<Rigidbody>();
+        rb = objectToParent.GetComponent<Rigidbody>();
     }
 
     public void animevent(string s)
