@@ -65,7 +65,8 @@ PrefabInstance:
       value: Penguin17
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: -1018664272722485354, guid: 96853f0ea8ed2544797bd0ef27f98a4f, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 96853f0ea8ed2544797bd0ef27f98a4f, type: 3}
