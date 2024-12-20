@@ -3,7 +3,42 @@ guid: f3cdad1af030f2044be25c02448f93fe
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Armen.Mat
+    second: {fileID: 2100000, guid: e18789c02ee3a304f8d12fcaa2aef577, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kop.Mat
+    second: {fileID: 2100000, guid: 7659c0188ef5bbe4788d270b121b829c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lichaam.mat
+    second: {fileID: 2100000, guid: c7acb8e8723c54f41a7e3e580d4e81d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mond beneden.Mat
+    second: {fileID: 2100000, guid: 6406f0ea6c4873b4cbd2e753dd43f8bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mond boven.Mat
+    second: {fileID: 2100000, guid: a45a3437a1b22a948ab47ff4174b2ff9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ogen.Mat
+    second: {fileID: 2100000, guid: 831b120db7bc69040aab232d37e2518a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Strik.Mat
+    second: {fileID: 2100000, guid: aa61b19a963c4d547b92f79dcbff74e2, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
