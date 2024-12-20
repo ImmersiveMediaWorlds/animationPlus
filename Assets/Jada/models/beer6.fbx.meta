@@ -3,7 +3,17 @@ guid: c908a1dd7224c544f9cdff30d74bd3e5
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oogjes
+    second: {fileID: 2100000, guid: 9703acdb08d348c488368aba10064dad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vacht
+    second: {fileID: 2100000, guid: 468e6968364172d48bb9962a1ad81211, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -38,28 +38,28 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _AlphaCutout: 0.072
+    - _AlphaCutout: 0.179
     - _AppendMoreFins: 0
-    - _Density: 7.55
+    - _Density: 10
     - _DrawOrigPolygon: 1
-    - _FaceNormalFactor: 0.28
+    - _FaceNormalFactor: 0.462
     - _FaceViewProdThresh: 1
-    - _FinJointNum: 3
-    - _FinLength: 0.16
+    - _FinJointNum: 8
+    - _FinLength: 0.186
     - _Metallic: 0.917
     - _NormalFactor: 0.196
-    - _NormalScale: 1.51
-    - _Occlusion: 0.455
-    - _RandomDirection: 0.442
+    - _NormalScale: 2
+    - _Occlusion: 1
+    - _RandomDirection: 0.135
     - _RimLightIntensity: 0.871
     - _RimLightPower: 4
     - _ShadowExtraBias: -0.3
     - _Smoothness: 0.3
-    - _TessFactor: 4.41
-    - _TessMaxDist: 5
-    - _TessMinDist: 1
+    - _TessFactor: 10
+    - _TessMaxDist: 4
+    - _TessMinDist: 0.1
     m_Colors:
-    - _AmbientColor: {r: 0.01848225, g: 0.039958913, b: 0.066037714, a: 1}
+    - _AmbientColor: {r: 0, g: 0, b: 0, a: 1}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _BaseMove: {r: 0, g: -0.4, b: 0, a: 3}
     - _WindFreq: {r: 1, g: 0.4, b: 0.2, a: 1}
