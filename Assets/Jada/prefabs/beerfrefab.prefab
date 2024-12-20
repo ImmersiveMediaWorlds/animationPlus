@@ -64,6 +64,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: beerfrefab
       objectReference: {fileID: 0}
+    - target: {fileID: 5989765337502249051, guid: 0369525016a0fb24f8fc0209fb1cbf20, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 468e6968364172d48bb9962a1ad81211, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
