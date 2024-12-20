@@ -143,8 +143,8 @@ BoxCollider:
   m_ProvidesContacts: 1
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 3.3071284, y: 1.3732915, z: 3.3893058}
-  m_Center: {x: 2.4608576, y: 3.128657, z: 10.308765}
+  m_Size: {x: 3.3071284, y: 1.4574422, z: 3.3893058}
+  m_Center: {x: 2.4608576, y: 3.1707323, z: 10.308765}
 --- !u!1 &23409857
 GameObject:
   m_ObjectHideFlags: 0
@@ -800,15 +800,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3592469616105799412, guid: 7e63b4d88e3775943817ead4ac8117a5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.286
+      value: -2.262
       objectReference: {fileID: 0}
     - target: {fileID: 3592469616105799412, guid: 7e63b4d88e3775943817ead4ac8117a5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.0523
+      value: 0.1038
       objectReference: {fileID: 0}
     - target: {fileID: 3592469616105799412, guid: 7e63b4d88e3775943817ead4ac8117a5, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.8193
+      value: -0.792
       objectReference: {fileID: 0}
     - target: {fileID: 3592469616105799412, guid: 7e63b4d88e3775943817ead4ac8117a5, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1505,6 +1505,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: BordjeKookies
       objectReference: {fileID: 0}
+    - target: {fileID: 5166696471762223226, guid: 85ebcaf1e946ea842bf79dd0e4f21815, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.11
+      objectReference: {fileID: 0}
+    - target: {fileID: 5166696471762223226, guid: 85ebcaf1e946ea842bf79dd0e4f21815, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.48
+      objectReference: {fileID: 0}
+    - target: {fileID: 5166696471762223226, guid: 85ebcaf1e946ea842bf79dd0e4f21815, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 10.43
+      objectReference: {fileID: 0}
     - target: {fileID: 6214185663314270683, guid: 85ebcaf1e946ea842bf79dd0e4f21815, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -1560,6 +1572,30 @@ PrefabInstance:
     - target: {fileID: 7913732746349519979, guid: 85ebcaf1e946ea842bf79dd0e4f21815, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8069021492801005910, guid: 85ebcaf1e946ea842bf79dd0e4f21815, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.46
+      objectReference: {fileID: 0}
+    - target: {fileID: 8069021492801005910, guid: 85ebcaf1e946ea842bf79dd0e4f21815, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.71
+      objectReference: {fileID: 0}
+    - target: {fileID: 8069021492801005910, guid: 85ebcaf1e946ea842bf79dd0e4f21815, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 10.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 8517231218936632966, guid: 85ebcaf1e946ea842bf79dd0e4f21815, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.11
+      objectReference: {fileID: 0}
+    - target: {fileID: 8517231218936632966, guid: 85ebcaf1e946ea842bf79dd0e4f21815, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 8517231218936632966, guid: 85ebcaf1e946ea842bf79dd0e4f21815, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 10.76
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
